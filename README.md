@@ -4,4 +4,4 @@ Performing face detection using  different techniques and understanding their pe
 1.FACE DETECTOR USING HAAR CASCADE
 2.FACE DETECTOR USING HOG
 3.FACE DETECTOR USING DNN
-4.FACE DETECTOR USING CNN 
+4.FACE DETECTOR USING CNN
