@@ -1,5 +1,6 @@
 # Face-Detectors
 Performing face detection using  different techniques and understanding their performance for using them according to our requirement.
+Here the face detection is done on video file
 
 1. FACE DETECTOR USING HAAR CASCADE
 2. FACE DETECTOR USING HOG
